@@ -1960,4 +1960,4 @@ Dataset: [Garbage Detection Dataset v1](https://app.roboflow.com/garbage-detecti
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+Demo app: [Garbage Detection](https://huggingface.co/spaces/afsm/garbage-detection)
